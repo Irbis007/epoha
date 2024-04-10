@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Metropolis'; 
+  src: url('./Metropolis.otf');
+}
+
+@font-face {
+  font-family: 'Fontick'; 
+  src: url('./fontick.otf');
+}
+
+@font-face {
+  font-family: 'Days Sans Black'; 
+  src: url('./DaysSansBlack.otf');
+}
