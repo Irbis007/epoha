@@ -83,6 +83,14 @@ body{
   width: 100%;
 }
 
+.line-deckor{
+  margin-bottom: 30px;
+}
+.line-deckor.second-line{
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
 .line-deckor img{
   width: 100%;
 }
